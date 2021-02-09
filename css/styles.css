@@ -1,0 +1,41 @@
+/* CSS Document */
+html {
+	scroll-behavior: smooth;
+}
+
+body {
+	margin:0px;
+	font-family:'comic sans ms', sans-serif;
+	text-align:center;
+	background:linear-gradient(45deg, blue, white);
+
+}
+table{
+	width:100%;
+}
+img{
+	width:300px;
+	height:200px;
+	border-radius:20px;
+	box-shadow:0 0 10px black;
+}
+img.main{
+	width:600px;
+	height:400px;
+}
+h2{
+	background:linear-gradient(45deg,lightgreen,darkblue,lightgreen);
+	width:50%;
+	color:white;
+	margin:auto;
+	padding:15px;
+	border-radius:60% 60% 0% 0%;
+	border-bottom:5px solid white;
+}
+h1{
+	font-family:'Castellar',sans-serif;
+	font-size:45px;
+	font-weight:bolder;
+	text-shadow:0 0 10px black ;
+}
+
